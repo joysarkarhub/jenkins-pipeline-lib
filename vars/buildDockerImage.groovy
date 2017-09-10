@@ -1,7 +1,6 @@
 #!/usr/bin/env groovy
 /**
  * Create Docker Image
- * Refer example Jenkinsfile-dockerTask under 'example' for use case
  */
 
 

@@ -1,7 +1,6 @@
 #!/usr/bin/env groovy
 /**
  * Push Docker Image
- * Refer example Jenkinsfile-dockerTask under 'example' for use case
  */
 
 def call(body) {
